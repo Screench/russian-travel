@@ -1,0 +1,11 @@
+.root {
+    background-color: #E5E5E5;
+    
+}
+
+.header {
+    display: flex;
+    
+    max-width: 1184px;
+    background-color: #2A2C2F;
+}
