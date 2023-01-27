@@ -1,0 +1,32 @@
+/* 1280 */
+.footer {
+  margin: 0 auto;
+  max-width: calc(1280px - 2*48px);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 92px 48px 24px;
+}
+
+/* 1024 */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .footer {
+    max-width: calc(100% - 2*48px);
+  }
+}
+
+/* 768 */
+@media (min-width: 712px) and (max-width: 768px) {
+  .footer {
+    max-width: calc(100% - 2*24px);
+    padding: 88px 0 24px;
+  }
+}
+
+/* 320 */
+@media (max-width: 712px) {
+  .footer {
+    padding: 64px 16px 24px;
+    flex-direction: column;
+  }
+}
