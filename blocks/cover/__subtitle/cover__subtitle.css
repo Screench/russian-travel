@@ -7,7 +7,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 1.22;
+  line-height: 22px;
   text-align: center;
   color: #FFFFFF;
 }
@@ -16,9 +16,8 @@
   .cover__subtitle {
     margin: 0;
     font-size: 14px;
-    line-height: 1.14;
+    line-height: 16px;
     margin-top: 16px;
-    max-width: calc(100% - 2*16px);
-    
+    max-width: 288px;
   }
 }
