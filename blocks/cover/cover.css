@@ -5,14 +5,13 @@
   background-size: cover;
   background-position: center;
   max-width: calc(1280px - 2*48px);
-  height: 740px; 
+  height: 740px;
   cursor: pointer;
 }
 
 /* 1024 */
 @media screen and (max-width: 1024px) {
   .cover {
-    max-width: calc(1024 - 2*48px);
     height: 640px;
   }
 }
