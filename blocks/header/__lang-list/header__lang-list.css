@@ -3,7 +3,7 @@
   padding-top: 18px;
   display: flex;
   list-style: none;
-  align-self: flex-start ;
+  align-self: flex-start;
 }
 @media (max-width: 767px) {
   .header__lang-list {

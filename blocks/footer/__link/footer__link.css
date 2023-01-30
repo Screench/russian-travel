@@ -8,6 +8,11 @@
   line-height: 18px;
   color: #fff;
   text-decoration: none;
+  transition: .4s ease;
+}
+
+.footer__link:hover {
+  opacity: .8;
 }
 
 @media (max-width: 320px) {
