@@ -7,7 +7,3 @@
 
 Страница находится по адресу:
 * [Ссылка на GitHub](https://screench.github.io/russian-travel/index.html)
-
-или
-
-* [Альтернативная ссылка](http://45.141.101.176/russian-travel/index.html)
