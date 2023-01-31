@@ -1,12 +1,12 @@
 .header__lang-list {
   margin: 0;
-  padding-top: 18px;
+  padding: 18px 0 0 0;
   display: flex;
   list-style: none;
   align-self: flex-start;
 }
 @media (max-width: 767px) {
   .header__lang-list {
-    padding-top: 14px;
+    padding: 14px 0 0 0;
   }
 }
