@@ -24,8 +24,9 @@
 }
 
 /* 320 */
-@media (max-width: 712px) {
+@media (max-width: 640px) {
   .footer {
+    margin: 0;
     padding: 64px 16px 24px;
     flex-direction: column;
   }
