@@ -9,24 +9,24 @@
 }
 
 /* 1024 */
-@media (max-width: 1024px) {
-  .footer {
-    max-width: calc(100% - 2*48px);
-  }
-}
-
-/* 768 */
-@media (max-width: 768px) {
+@media (max-width: 1023px) {
   .footer {
     max-width: calc(100% - 2*24px);
     padding: 88px 0 24px;
   }
 }
 
-/* 320 */
-@media (max-width: 712px) {
+/* 768 */
+@media (max-width: 720px) {
   .footer {
-    padding: 64px 16px 24px;
     flex-direction: column;
+  }
+}
+
+/* 320 */
+@media (max-width: 480px) {
+  .footer {
+    margin: 0;
+    padding: 64px 16px 24px;
   }
 }
